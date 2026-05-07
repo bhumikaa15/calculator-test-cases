@@ -1,0 +1,9 @@
+
+## Requirements
+
+To view or edit this project, you need:
+
+- VS Code or any text editor
+- Git installed on your system
+- GitHub account
+- Basic knowledge of Markdown
